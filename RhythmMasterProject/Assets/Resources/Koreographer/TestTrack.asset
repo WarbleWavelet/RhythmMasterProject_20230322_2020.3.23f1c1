@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: TestTrack
+  m_EditorClassIdentifier: 
+  mEventID: 
+  mEventList:
+  - mStartSample: 0
+    mEndSample: 0
+  - mStartSample: 210800
+    mEndSample: 210800
+  - mStartSample: 421600
+    mEndSample: 421600
+  - mStartSample: 632400
+    mEndSample: 632400
+  - mStartSample: 843200
+    mEndSample: 843200
+  - mStartSample: 1054000
+    mEndSample: 1054000
+  - mStartSample: 1264800
+    mEndSample: 1264800
+  - mStartSample: 1475600
+    mEndSample: 1475600
+  - mStartSample: 1686400
+    mEndSample: 1686400
+  - mStartSample: 1897200
+    mEndSample: 1897200
+  - mStartSample: 2108000
+    mEndSample: 2108000
+  - mStartSample: 2318800
+    mEndSample: 2318800
+  - mStartSample: 2529600
+    mEndSample: 2529600
+  - mStartSample: 2740400
+    mEndSample: 2740400
+  - mStartSample: 2951200
+    mEndSample: 2951200
+  - mStartSample: 3162000
+    mEndSample: 3162000
+  - mStartSample: 3372800
+    mEndSample: 3372800
+  - mStartSample: 3583600
+    mEndSample: 3583600
+  - mStartSample: 3794400
+    mEndSample: 3794400
+  - mStartSample: 4005200
+    mEndSample: 4005200
+  - mStartSample: 4216000
+    mEndSample: 4216000
+  - mStartSample: 4426800
+    mEndSample: 4426800
+  - mStartSample: 4637600
+    mEndSample: 4637600
+  - mStartSample: 4848400
+    mEndSample: 4848400
+  - mStartSample: 5059200
+    mEndSample: 5059200
+  - mStartSample: 5270000
+    mEndSample: 5270000
+  - mStartSample: 5480800
+    mEndSample: 5480800
+  - mStartSample: 5691600
+    mEndSample: 5691600
+  - mStartSample: 5902400
+    mEndSample: 5902400
+  - mStartSample: 6113200
+    mEndSample: 6113200
+  - mStartSample: 6324000
+    mEndSample: 6324000
+  - mStartSample: 6534800
+    mEndSample: 6534800
+  - mStartSample: 6745600
+    mEndSample: 6745600
+  - mStartSample: 6956400
+    mEndSample: 6956400
+  - mStartSample: 7167200
+    mEndSample: 7167200
+  - mStartSample: 7378000
+    mEndSample: 7378000
+  - mStartSample: 7588800
+    mEndSample: 7588800
+  - mStartSample: 7799600
+    mEndSample: 7799600
+  - mStartSample: 8010400
+    mEndSample: 8010400
+  - mStartSample: 8221200
+    mEndSample: 8221200
+  - mStartSample: 8432000
+    mEndSample: 8432000
+  - mStartSample: 8642800
+    mEndSample: 8642800
+  - mStartSample: 8853600
+    mEndSample: 8853600
+  - mStartSample: 9064400
+    mEndSample: 9064400
+  - mStartSample: 9275200
+    mEndSample: 9275200
+  - mStartSample: 9486000
+    mEndSample: 9486000
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.FloatPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads:
+  - mFloatVal: 0
+  - mFloatVal: 0.083374724
+  - mFloatVal: 0.30795902
+  - mFloatVal: 0.11466163
+  - mFloatVal: 0.3155081
+  - mFloatVal: 0.2895794
+  - mFloatVal: 0.32123557
+  - mFloatVal: 0.35697305
+  - mFloatVal: 0.21819827
+  - mFloatVal: 0.16931564
+  - mFloatVal: 0.41993123
+  - mFloatVal: 0.3185092
+  - mFloatVal: 0.1029488
+  - mFloatVal: 0.37896752
+  - mFloatVal: 0.42608723
+  - mFloatVal: 0.17628655
+  - mFloatVal: 0.32699195
+  - mFloatVal: 0.4790437
+  - mFloatVal: 0.2517593
+  - mFloatVal: 0.07456536
+  - mFloatVal: 0.24559332
+  - mFloatVal: 0.35907555
+  - mFloatVal: 0.3241608
+  - mFloatVal: 0.17570978
+  - mFloatVal: 0.44349125
+  - mFloatVal: 0.33002558
+  - mFloatVal: 0.22751017
+  - mFloatVal: 0.4350933
+  - mFloatVal: 0.4300459
+  - mFloatVal: 0.2971433
+  - mFloatVal: 0.3548629
+  - mFloatVal: 0.32534933
+  - mFloatVal: 0.15845753
+  - mFloatVal: 0.07456591
+  - mFloatVal: 0.094453104
+  - mFloatVal: 0.42789307
+  - mFloatVal: 0.32383797
+  - mFloatVal: 0.33956018
+  - mFloatVal: 0.4726502
+  - mFloatVal: 0.30246162
+  - mFloatVal: 0.29306936
+  - mFloatVal: 0.3638061
+  - mFloatVal: 0.39345917
+  - mFloatVal: 0.23925744
+  - mFloatVal: 0.018897442
+  - mFloatVal: 0.000027397533
+  _FloatPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d000000
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 

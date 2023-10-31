@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: a5a02702210e0414f8bef8cbf1e02759
+timeCreated: 1678926898
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PadUI-7_0
+    21300002: PadUI-7_1
+    21300004: PadUI-7_2
+    21300006: PadUI-7_3
+    21300008: PadUI-7_4
+    21300010: PadUI-7_5
+    21300012: PadUI-7_6
+    21300014: PadUI-7_7
+    21300016: PadUI-7_8
+    21300018: PadUI-7_9
+    21300020: PadUI-7_10
+    21300022: PadUI-7_11
+    21300024: PadUI-7_12
+    21300026: PadUI-7_13
+    21300028: PadUI-7_14
+    21300030: PadUI-7_15
+    21300032: PadUI-7_16
+    21300034: PadUI-7_17
+    21300036: PadUI-7_18
+    21300038: PadUI-7_19
+    21300040: PadUI-7_20
+    21300042: PadUI-7_21
+    21300044: PadUI-7_22
+    21300046: PadUI-7_23
+    21300048: PadUI-7_24
+    21300050: PadUI-7_25
+    21300052: PadUI-7_26
+    21300054: PadUI-7_27
+    21300056: PadUI-7_28
+    21300058: PadUI-7_29
+    21300060: PadUI-7_30
+    21300062: PadUI-7_31
+    21300064: PadUI-7_32
+    21300066: PadUI-7_33
+    21300068: PadUI-7_34
+    21300070: PadUI-7_35
+    21300072: PadUI-7_36
+    21300074: PadUI-7_37
+    21300076: PadUI-7_38
+    21300078: PadUI-7_39
+    21300080: PadUI-7_40
+    21300082: PadUI-7_41
+    21300084: PadUI-7_42
+    21300086: PadUI-7_43
+    21300088: PadUI-7_44
+    21300090: PadUI-7_45
+    21300092: PadUI-7_46
+    21300094: PadUI-7_47
+    21300096: PadUI-7_48
+    21300098: PadUI-7_49
+    21300100: PadUI-7_50
+    21300102: PadUI-7_51
+    21300104: PadUI-7_52
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PadUI-7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 32}
+        - {x: -77.5, y: -2}
+        - {x: -77.5, y: -32}
+        - {x: 66.5, y: -32}
+        - {x: 77.5, y: -7}
+        - {x: 77.5, y: 32}
+      physicsShape:
+      - - {x: -59.5, y: 30}
+        - {x: -77.5, y: 1}
+        - {x: -77.5, y: -26}
+        - {x: -76.5, y: -28}
+        - {x: 55.5, y: -28}
+        - {x: 77.5, y: -2}
+        - {x: 77.5, y: 30}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 606
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.5, y: 32}
+        - {x: -69.5, y: 31}
+        - {x: -77.5, y: 4}
+        - {x: -77.5, y: -32}
+        - {x: 64.5, y: -32}
+        - {x: 77.5, y: -10}
+        - {x: 77.5, y: 32}
+      physicsShape:
+      - - {x: -55.5, y: 30}
+        - {x: -74.5, y: 0}
+        - {x: -74.5, y: -23}
+        - {x: -69.5, y: -28}
+        - {x: 60.5, y: -28}
+        - {x: 73.5, y: -6}
+        - {x: 73.5, y: 29}
+        - {x: 72.5, y: 30}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 606
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.5, y: 32}
+        - {x: -65.5, y: 32}
+        - {x: -72.5, y: 15}
+        - {x: -72.5, y: -27}
+        - {x: -71.5, y: -32}
+        - {x: 62.5, y: -32}
+        - {x: 71.5, y: -29}
+        - {x: 72.5, y: -21}
+        - {x: 72.5, y: 26}
+      physicsShape:
+      - - {x: -63.5, y: 30}
+        - {x: -69.5, y: 13}
+        - {x: -69.5, y: -28}
+        - {x: 66.5, y: -28}
+        - {x: 68.5, y: -22}
+        - {x: 68.5, y: 22}
+        - {x: 58.5, y: 30}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 606
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.5, y: 32}
+        - {x: -68.5, y: 32}
+        - {x: -73.5, y: 29}
+        - {x: -73.5, y: -23}
+        - {x: -71.5, y: -32}
+        - {x: 66.5, y: -32}
+        - {x: 74.5, y: -25}
+        - {x: 74.5, y: -10}
+        - {x: 70.5, y: 21}
+      physicsShape:
+      - - {x: -70.5, y: 30}
+        - {x: -70.5, y: -16}
+        - {x: -68.5, y: -28}
+        - {x: 66.5, y: -28}
+        - {x: 68.5, y: -26}
+        - {x: 68.5, y: 30}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 606
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 32}
+        - {x: -74.5, y: 27}
+        - {x: -74.5, y: 0}
+        - {x: -67.5, y: -27}
+        - {x: -57.5, y: -32}
+        - {x: 77.5, y: -32}
+        - {x: 77.5, y: 32}
+      physicsShape:
+      - - {x: -72.5, y: 30}
+        - {x: -72.5, y: -28}
+        - {x: 74.5, y: -28}
+        - {x: 74.5, y: -4}
+        - {x: 57.5, y: 30}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_5
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 606
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: 27}
+        - {x: 42.5, y: 32}
+        - {x: -77.5, y: 32}
+        - {x: -77.5, y: -7}
+        - {x: -76.5, y: -15}
+        - {x: -57.5, y: -32}
+        - {x: 77.5, y: -32}
+        - {x: 77.5, y: -1}
+        - {x: 62.5, y: 17}
+      physicsShape:
+      - - {x: -76.5, y: 30}
+        - {x: -76.5, y: 11}
+        - {x: -57.5, y: -20}
+        - {x: -51.5, y: -28}
+        - {x: 73.5, y: -28}
+        - {x: 75.5, y: -24}
+        - {x: 75.5, y: -5}
+        - {x: 50.5, y: 30}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 32}
+        - {x: -77.5, y: 7}
+        - {x: -77.5, y: -32}
+        - {x: 62.5, y: -32}
+        - {x: 77.5, y: -12}
+        - {x: 77.5, y: 32}
+      physicsShape:
+      - - {x: -52.5, y: 29}
+        - {x: -77.5, y: -6}
+        - {x: -77.5, y: -25}
+        - {x: -76.5, y: -29}
+        - {x: 57.5, y: -29}
+        - {x: 74.5, y: -27}
+        - {x: 77.5, y: -13}
+        - {x: 77.5, y: 26}
+        - {x: 76.5, y: 29}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 538
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 32}
+        - {x: -75.5, y: 3}
+        - {x: -75.5, y: -28}
+        - {x: -74.5, y: -32}
+        - {x: 72.5, y: -32}
+        - {x: 77.5, y: -11}
+        - {x: 77.5, y: 32}
+      physicsShape:
+      - - {x: -52.5, y: 29}
+        - {x: -72.5, y: -1}
+        - {x: -72.5, y: -24}
+        - {x: -68.5, y: -29}
+        - {x: 66.5, y: -29}
+        - {x: 75.5, y: -2}
+        - {x: 75.5, y: 29}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 538
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.5, y: 32}
+        - {x: -71.5, y: 29}
+        - {x: -71.5, y: -28}
+        - {x: -66.5, y: -32}
+        - {x: 70.5, y: -32}
+        - {x: 73.5, y: -28}
+        - {x: 73.5, y: 31}
+        - {x: 72.5, y: 32}
+      physicsShape:
+      - - {x: -64.5, y: 29}
+        - {x: -68.5, y: 22}
+        - {x: -68.5, y: -28}
+        - {x: -67.5, y: -29}
+        - {x: 62.5, y: -29}
+        - {x: 69.5, y: -27}
+        - {x: 69.5, y: 22}
+        - {x: 67.5, y: 29}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 538
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.5, y: 32}
+        - {x: -24.5, y: 32}
+        - {x: -64.5, y: 31}
+        - {x: -71.5, y: 29}
+        - {x: -71.5, y: -22}
+        - {x: -69.5, y: -32}
+        - {x: 70.5, y: -32}
+        - {x: 76.5, y: -23}
+        - {x: 76.5, y: 5}
+        - {x: 70.5, y: 23}
+      physicsShape:
+      - - {x: -68.5, y: 29}
+        - {x: -68.5, y: -17}
+        - {x: -66.5, y: -29}
+        - {x: 68.5, y: -29}
+        - {x: 70.5, y: -27}
+        - {x: 70.5, y: 29}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 538
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 32}
+        - {x: -75.5, y: 28}
+        - {x: -75.5, y: -17}
+        - {x: -63.5, y: -32}
+        - {x: 76.5, y: -32}
+        - {x: 77.5, y: -30}
+        - {x: 77.5, y: 4}
+        - {x: 57.5, y: 32}
+      physicsShape:
+      - - {x: -68.5, y: 29}
+        - {x: -73.5, y: 22}
+        - {x: -73.5, y: -29}
+        - {x: 73.5, y: -29}
+        - {x: 73.5, y: -3}
+        - {x: 55.5, y: 29}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_11
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 538
+        width: 155
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 32}
+        - {x: -74.5, y: 32}
+        - {x: -77.5, y: 29}
+        - {x: -77.5, y: -31}
+        - {x: -69.5, y: -32}
+        - {x: 77.5, y: -32}
+        - {x: 77.5, y: -4}
+        - {x: 76.5, y: 2}
+      physicsShape:
+      - - {x: -76.5, y: 29}
+        - {x: -77.5, y: 27}
+        - {x: -77.5, y: 0}
+        - {x: -53.5, y: -29}
+        - {x: 70.5, y: -29}
+        - {x: 74.5, y: -28}
+        - {x: 74.5, y: -5}
+        - {x: 52.5, y: 29}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 166
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 38}
+        - {x: -82, y: 23}
+        - {x: -82, y: -38}
+        - {x: 36, y: -38}
+        - {x: 74, y: -32}
+        - {x: 83, y: 5}
+        - {x: 83, y: 38}
+      physicsShape:
+      - - {x: -78, y: -9}
+        - {x: -79, y: -10}
+        - {x: -79, y: -21}
+        - {x: -78, y: -28}
+        - {x: -71, y: -35}
+        - {x: -65, y: -35}
+        - {x: -65, y: -29}
+        - {x: -73, y: -9}
+      - - {x: 68, y: 10}
+        - {x: 71, y: 11}
+        - {x: 71, y: 14}
+        - {x: 68, y: 15}
+        - {x: 66, y: 13}
+      - - {x: -61, y: 37}
+        - {x: -61, y: 15}
+        - {x: 75, y: 15}
+        - {x: 83, y: 31}
+        - {x: 83, y: 37}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 389
+        width: 166
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 38}
+        - {x: -83, y: -32}
+        - {x: -70, y: -38}
+        - {x: 57, y: -38}
+        - {x: 83, y: -30}
+        - {x: 83, y: 38}
+      physicsShape:
+      - - {x: 83, y: 37}
+        - {x: -61, y: 37}
+        - {x: -80, y: 3}
+        - {x: -80, y: -24}
+        - {x: -75, y: -33}
+        - {x: -41, y: -33}
+        - {x: 66, y: -15}
+        - {x: 77, y: -4}
+        - {x: 83, y: 24}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 389
+        width: 166
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 38}
+        - {x: -83, y: -38}
+        - {x: 83, y: -38}
+        - {x: 83, y: 21}
+        - {x: 80, y: 38}
+      - - {x: 77, y: 38}
+        - {x: 78, y: 35}
+        - {x: 83, y: 35}
+        - {x: 83, y: 38}
+      physicsShape:
+      - - {x: -70, y: 37}
+        - {x: -77, y: 0}
+        - {x: -77, y: -24}
+        - {x: -68, y: -34}
+        - {x: -65, y: -34}
+        - {x: -63, y: -33}
+        - {x: -54, y: -34}
+        - {x: 75, y: -34}
+        - {x: 75, y: 37}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_15
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 389
+        width: 166
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 38}
+        - {x: -83, y: -26}
+        - {x: -56, y: -37}
+        - {x: 76, y: -37}
+        - {x: 83, y: -25}
+        - {x: 83, y: 15}
+        - {x: 69, y: 38}
+      - - {x: 74, y: 38}
+        - {x: 75, y: 35}
+        - {x: 80, y: 35}
+        - {x: 82, y: 37}
+        - {x: 82, y: 38}
+      physicsShape:
+      - - {x: 70, y: 3}
+        - {x: 58, y: -28}
+        - {x: 58, y: -35}
+        - {x: 69, y: -35}
+        - {x: 78, y: -25}
+        - {x: 78, y: 0}
+        - {x: 77, y: 3}
+      - - {x: -68, y: -19}
+        - {x: -68, y: -20}
+        - {x: -64, y: -25}
+        - {x: -61, y: -23}
+        - {x: -62, y: -19}
+        - {x: -64, y: -17}
+        - {x: -66, y: -17}
+      - - {x: 67, y: 37}
+        - {x: -74, y: 37}
+        - {x: -74, y: -17}
+        - {x: -15, y: -17}
+        - {x: 71, y: 14}
+        - {x: 72, y: 16}
+        - {x: 72, y: 26}
+        - {x: 69, y: 35}
+      - - {x: 68, y: 11}
+        - {x: 71, y: 7}
+        - {x: 74, y: 8}
+        - {x: 74, y: 11}
+        - {x: 71, y: 15}
+        - {x: 68, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_16
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 389
+        width: 166
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 38}
+        - {x: -83, y: -22}
+        - {x: -58, y: -38}
+        - {x: 53, y: -38}
+        - {x: 83, y: -36}
+        - {x: 83, y: 13}
+        - {x: 65, y: 38}
+      physicsShape:
+      - - {x: 76, y: -5}
+        - {x: 63, y: -29}
+        - {x: 63, y: -35}
+        - {x: 75, y: -35}
+        - {x: 83, y: -22}
+        - {x: 83, y: -6}
+        - {x: 81, y: -5}
+      - - {x: -81, y: 37}
+        - {x: -81, y: 25}
+        - {x: -74, y: 3}
+        - {x: -38, y: 3}
+        - {x: 67, y: 20}
+        - {x: 68, y: 21}
+        - {x: 68, y: 36}
+        - {x: 62, y: 37}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_17
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 389
+        width: 166
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 38}
+        - {x: -83, y: 34}
+        - {x: -68, y: -34}
+        - {x: -52, y: -38}
+        - {x: 71, y: -38}
+        - {x: 83, y: -34}
+        - {x: 83, y: 7}
+        - {x: 82, y: 11}
+        - {x: 55, y: 38}
+      - - {x: -83, y: -9}
+        - {x: -83, y: -17}
+        - {x: -81, y: -17}
+        - {x: -79, y: -15}
+        - {x: -79, y: -11}
+        - {x: -81, y: -9}
+      - - {x: -73, y: 6}
+        - {x: -75, y: 4}
+        - {x: -75, y: 1}
+        - {x: -73, y: -1}
+        - {x: -70, y: -1}
+        - {x: -68, y: 3}
+        - {x: -68, y: 5}
+        - {x: -70, y: 6}
+      physicsShape:
+      - - {x: -80, y: 37}
+        - {x: -80, y: 30}
+        - {x: -57, y: -22}
+        - {x: -36, y: -35}
+        - {x: -34, y: -26}
+        - {x: 31, y: -35}
+        - {x: 80, y: -35}
+        - {x: 83, y: -27}
+        - {x: 83, y: 4}
+        - {x: 55, y: 37}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 165
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 34}
+        - {x: -81.5, y: -1}
+        - {x: -81.5, y: -34}
+        - {x: 57.5, y: -34}
+        - {x: 67.5, y: -33}
+        - {x: 74.5, y: -10}
+        - {x: 82.5, y: 23}
+        - {x: 82.5, y: 34}
+      - - {x: 71.5, y: -12}
+        - {x: 71.5, y: -21}
+        - {x: 69.76068, y: -29.277924}
+        - {x: 67.44835, y: -28.982788}
+        - {x: 78.6633, y: 6.590271}
+        - {x: 79.5, y: 5}
+      physicsShape:
+      - - {x: -50.5, y: 34}
+        - {x: -78.5, y: 1}
+        - {x: -78.5, y: -31}
+        - {x: -76.5, y: -34}
+        - {x: 48.5, y: -34}
+        - {x: 82.5, y: 22}
+        - {x: 82.5, y: 34}
+      - - {x: 76.5, y: -5}
+        - {x: 73.5, y: -12}
+        - {x: 73.5, y: -23}
+        - {x: 80.5, y: -32}
+        - {x: 82.5, y: -32}
+        - {x: 82.5, y: 4}
+        - {x: 79.5, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 466
+        width: 165
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 34}
+        - {x: -82.5, y: 2}
+        - {x: -82.5, y: -26}
+        - {x: -77.5, y: -34}
+        - {x: 58.5, y: -34}
+        - {x: 71.5, y: -28}
+        - {x: 81.5, y: 18}
+        - {x: 81.5, y: 34}
+      - - {x: 70.5, y: -6}
+        - {x: 70.5, y: -9}
+        - {x: 73.5, y: -19}
+        - {x: 74.25357, y: -23.361023}
+        - {x: 61.431152, y: -29.378265}
+        - {x: 68.038605, y: -23.180511}
+        - {x: 79.25357, y: -3.8194885}
+        - {x: 72.5, y: -5}
+      - - {x: -73.05583, y: 26.3266}
+        - {x: -81.90973, y: 8.868164}
+        - {x: -78.5, y: 13}
+        - {x: -70.5, y: 28}
+        - {x: -67.54869, y: 33.704895}
+      physicsShape:
+      - - {x: -62.5, y: 34}
+        - {x: -81.5, y: 0}
+        - {x: -81.5, y: -34}
+        - {x: 67.5, y: -34}
+        - {x: 80.5, y: 17}
+        - {x: 80.5, y: 34}
+      - - {x: 79.5, y: -16}
+        - {x: 81.5, y: -18}
+        - {x: 82.5, y: -18}
+        - {x: 82.5, y: -10}
+        - {x: 79.5, y: -11}
+      - - {x: -82.5, y: 34}
+        - {x: -82.5, y: 15}
+        - {x: -79.5, y: 16}
+        - {x: -71.5, y: 31}
+        - {x: -71.5, y: 33}
+        - {x: -72.5, y: 34}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 466
+        width: 155
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.5, y: 34}
+        - {x: -77.5, y: 13}
+        - {x: -77.5, y: -34}
+        - {x: 77.5, y: -34}
+        - {x: 77.5, y: 25}
+        - {x: 75.5, y: 34}
+      physicsShape:
+      - - {x: -69.5, y: 34}
+        - {x: -77.5, y: 3}
+        - {x: -77.5, y: -25}
+        - {x: -71.5, y: -34}
+        - {x: 63.5, y: -34}
+        - {x: 74.5, y: -22}
+        - {x: 74.5, y: 34}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 467
+        width: 155
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 34}
+        - {x: -77.5, y: -27}
+        - {x: -66.5, y: -34}
+        - {x: 77.5, y: -34}
+        - {x: 73.958435, y: 21.16333}
+        - {x: 70.5, y: 34}
+      - - {x: 70.073, y: 28.048706}
+        - {x: 73.548706, y: 26.638977}
+        - {x: 72.18768, y: 23.982788}
+        - {x: 69.23633, y: 29.572998}
+        - {x: 74.5, y: 34}
+      physicsShape:
+      - - {x: -75.5, y: 34}
+        - {x: -75.5, y: -16}
+        - {x: -66.5, y: -34}
+        - {x: 77.5, y: -34}
+        - {x: 77.5, y: 4}
+        - {x: 73.5, y: 34}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_22
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 467
+        width: 164
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: 34}
+        - {x: -82, y: 10}
+        - {x: -78, y: -15}
+        - {x: -68, y: -28}
+        - {x: -64, y: -34}
+        - {x: 82, y: -34}
+        - {x: 76.39252, y: 0.031463623}
+        - {x: 69, y: 34}
+      - - {x: -76, y: -6}
+        - {x: -82, y: -6}
+        - {x: -82, y: -22}
+        - {x: -81, y: -22}
+        - {x: -78, y: -20}
+        - {x: -75, y: -13}
+        - {x: -74, y: -8}
+      - - {x: 69, y: 34}
+        - {x: 69, y: 29}
+        - {x: 78.52435, y: 4.573059}
+        - {x: 76.68762, y: 3.0973816}
+        - {x: 68.42401, y: 18.948364}
+      - - {x: 74.4458, y: 9.969971}
+        - {x: 74.4458, y: 9.969971}
+        - {x: 78.577576, y: 9.969971}
+        - {x: 78.577576, y: 9.969971}
+      physicsShape:
+      - - {x: -82, y: 34}
+        - {x: -82, y: 11}
+        - {x: -74, y: -24}
+        - {x: -67, y: -34}
+        - {x: 80, y: -34}
+        - {x: 80, y: -7}
+        - {x: 61, y: 34}
+      - - {x: 70, y: 32}
+        - {x: 80, y: 11}
+        - {x: 82, y: 11}
+        - {x: 82, y: 34}
+        - {x: 72, y: 34}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PadUI-7_23
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 465
+        width: 164
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 34}
+        - {x: -82, y: 34}
+        - {x: -82, y: 32}
+        - {x: -72, y: -4}
+        - {x: -72, y: -2}
+        - {x: -70.85095, y: 5.1632996}
+        - {x: -74.621765, y: 12.541565}
+        - {x: -58.389587, y: -33.40973}
+        - {x: 74, y: -34}
+        - {x: 82, y: -30}
+        - {x: 82, y: -7}
+        - {x: 68, y: 29}
+      physicsShape:
+      - - {x: -82, y: 34}
+        - {x: -82, y: 32}
+        - {x: -53, y: -25}
+        - {x: -47, y: -34}
+        - {x: 81, y: -34}
+        - {x: 81, y: -1}
+        - {x: 52, y: 34}
+      - - {x: -82, y: 7}
+        - {x: -82, y: -32}
+        - {x: -79, y: -32}
+        - {x: -72, y: -22}
+        - {x: -72, y: -8}
+        - {x: -79, y: 7}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
